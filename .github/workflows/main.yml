@@ -16,7 +16,7 @@ jobs:
         with:
           distribution: temurin
           java-version: '21'
-          cache: maven
+          
 
       - name: Extract project
         run: |
